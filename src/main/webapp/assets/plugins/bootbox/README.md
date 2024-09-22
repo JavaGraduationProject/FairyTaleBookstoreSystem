@@ -1,6 +1,6 @@
 # 全目录
 
-[更多系统、论文，供君选择 ~~>](https://www.bitwise.net.cn)
+[更多系统、论文，供君选择 ~~>](https://www.yuque.com/wisebit/blog)
 # Bootbox - Twitter Bootstrap powered alert, confirm and flexible dialog boxes
 
 Please see http://bootboxjs.com for full usage instructions, or head over to http://paynedigital.com/bootbox for
